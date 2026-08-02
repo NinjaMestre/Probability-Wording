@@ -1,3 +1,3 @@
 # Probability Wording
-This project tests Naive Bayes against a case it's not usually used in: generating text.
-It's not good (as expected), but it's not bad either.
+This toy project tests Naive Bayes in a case it's not commonly used in: generating text.
+The conclusion I got from this was: Naibe Bayes is not good for generating text (as expected), but it's not bad either. You can play around with it, but there are no real use cases.
